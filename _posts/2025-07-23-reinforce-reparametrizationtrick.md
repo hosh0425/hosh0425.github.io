@@ -3,6 +3,7 @@ title: REINFORCE vs reparametrization trick
 date: 2025-07-23 17:00:00 -0700
 categories: [Math]
 tags: [optimzation, RL, MC]
+math: true
 ---
 
 The famous quadratic formula is used to solve equations of the form $ax^2 + bx + c = 0$.
